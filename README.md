@@ -1,4 +1,7 @@
-[Macbook-Air-localhost (2)](https://github.com/Kramergg/site-mta-sa-kramer-drop/assets/120067217/8398b35d-4286-4a33-a03f-6bc59aebc053)
+
+![Macbook-Air-localhost (2)](https://github.com/Kramergg/site-mta-sa-kramer-drop/assets/120067217/cea39956-c85b-4fd8-826f-92dd0e1559f5)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
