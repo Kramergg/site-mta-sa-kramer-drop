@@ -1,3 +1,4 @@
+[Macbook-Air-localhost (2)](https://github.com/Kramergg/site-mta-sa-kramer-drop/assets/120067217/8398b35d-4286-4a33-a03f-6bc59aebc053)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -5,7 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+npm run dev!
+
 # or
 yarn dev
 # or
